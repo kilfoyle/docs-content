@@ -8,6 +8,8 @@ products:
   - id: elasticsearch
 ---
 
+hello
+
 # Tutorial: Create a data stream with a lifecycle [tutorial-manage-new-data-stream]
 
 To create a data stream with a built-in lifecycle, follow these steps:
